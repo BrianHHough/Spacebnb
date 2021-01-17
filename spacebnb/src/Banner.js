@@ -15,7 +15,9 @@ function Banner() {
                 <Button onClick={() => 
                 setShowSearch(!showSearch)}
                 className='banner__searchButton'
-                variant='outlined'>Search Dates
+                variant='outlined'
+                >
+                    {showSearch? "Hide" : "Search Intergalactic Dates"}    
                 </Button>
  
             </div>
@@ -27,7 +29,7 @@ function Banner() {
                 </h4>
                 <br></br>
                 <Button
-                variant='outlined'>Explore Your Galaxy
+                variant='outlined'>Explore The Galaxy
                 </Button>
             </div>
         </div>

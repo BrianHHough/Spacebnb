@@ -2,34 +2,35 @@
 import './App.css';
 import Home from './Home';
 import Header from './Header';
-import Banner from './Banner'
+import Banner from './Banner';
+import Footer from './Footer';
+import SearchPage from './SearchPage'
+
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
 
-    // BEM
     <div className="app">
+      <Router>
       {/* <h1>Spacebnb🚀</h1> */}
-      <Header />
-      {/* <Banner /> */}
-      <Home />
+        <Header />
 
-    {/* Home */}
+        <Switch>
 
-      {/* Header */}
+          <Route path="/search">
+            <SearchPage />
+          </Route>
+          
+          <Route path="/">
+            <Home />
+          </Route>
 
-      {/* Banner */}
+        </Switch>
 
-        {/* Search */}
+        <Footer />
 
-      {/* Cards */}
-
-      {/* Footer */}
-
-    {/* SearchPage */}
-
-      {/* ... */}
-
+      </Router>
     </div>
   );
 }
