@@ -2,7 +2,6 @@
 import './App.css';
 import Home from './Home';
 import Header from './Header';
-import Banner from './Banner';
 import Footer from './Footer';
 import SearchPage from './SearchPage'
 

@@ -11,7 +11,6 @@ import planet4 from './brand/planet4.png';
 import planet5 from './brand/planet5.png';
 import planet7 from './brand/planet7.png';
 import planet8 from './brand/planet8.png';
-import planet9 from './brand/planet9.png';
 
 function SearchPage() {
     return (
