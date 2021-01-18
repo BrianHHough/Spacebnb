@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edbe6dba.chunk.css",
+    "main.js": "/static/js/main.062fe301.chunk.js",
+    "main.js.map": "/static/js/main.062fe301.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e538331f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e538331f.js.map",
+    "static/css/2.06382735.chunk.css": "/static/css/2.06382735.chunk.css",
+    "static/js/2.b57f0099.chunk.js": "/static/js/2.b57f0099.chunk.js",
+    "static/js/2.b57f0099.chunk.js.map": "/static/js/2.b57f0099.chunk.js.map",
+    "static/js/3.a7b3e19e.chunk.js": "/static/js/3.a7b3e19e.chunk.js",
+    "static/js/3.a7b3e19e.chunk.js.map": "/static/js/3.a7b3e19e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.06382735.chunk.css.map": "/static/css/2.06382735.chunk.css.map",
+    "static/css/main.edbe6dba.chunk.css.map": "/static/css/main.edbe6dba.chunk.css.map",
+    "static/js/2.b57f0099.chunk.js.LICENSE.txt": "/static/js/2.b57f0099.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/static/media/homepageBanner.56eb14f7.png",
+    "static/media/planet1.1fc3a357.png": "/static/media/planet1.1fc3a357.png",
+    "static/media/planet2.74655fc2.png": "/static/media/planet2.74655fc2.png",
+    "static/media/planet3.e242f31f.png": "/static/media/planet3.e242f31f.png",
+    "static/media/planet4.3779ed1d.png": "/static/media/planet4.3779ed1d.png",
+    "static/media/planet5.ce3f7487.png": "/static/media/planet5.ce3f7487.png",
+    "static/media/planet6.fcf13228.png": "/static/media/planet6.fcf13228.png",
+    "static/media/planet7.fc690348.png": "/static/media/planet7.fc690348.png",
+    "static/media/planet8.3ed988cd.png": "/static/media/planet8.3ed988cd.png",
+    "static/media/planet9.e3a66ee9.png": "/static/media/planet9.e3a66ee9.png",
+    "static/media/space1.072a67be.png": "/static/media/space1.072a67be.png",
+    "static/media/space2.d2138b8b.png": "/static/media/space2.d2138b8b.png",
+    "static/media/space3.387c69b2.png": "/static/media/space3.387c69b2.png",
+    "static/media/spacebnb-logo-blue.586818b7.png": "/static/media/spacebnb-logo-blue.586818b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e538331f.js",
+    "static/css/2.06382735.chunk.css",
+    "static/js/2.b57f0099.chunk.js",
+    "static/css/main.edbe6dba.chunk.css",
+    "static/js/main.062fe301.chunk.js"
+  ]
+}
