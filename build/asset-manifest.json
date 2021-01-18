@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.edbe6dba.chunk.css",
-    "main.js": "/static/js/main.25633aa8.chunk.js",
-    "main.js.map": "/static/js/main.25633aa8.chunk.js.map",
+    "main.js": "/static/js/main.787c26ca.chunk.js",
+    "main.js.map": "/static/js/main.787c26ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fbe0daa6.js",
     "runtime-main.js.map": "/static/js/runtime-main.fbe0daa6.js.map",
     "static/css/2.06382735.chunk.css": "/static/css/2.06382735.chunk.css",
-    "static/js/2.e17a3bde.chunk.js": "/static/js/2.e17a3bde.chunk.js",
-    "static/js/2.e17a3bde.chunk.js.map": "/static/js/2.e17a3bde.chunk.js.map",
+    "static/js/2.9f40bc3b.chunk.js": "/static/js/2.9f40bc3b.chunk.js",
+    "static/js/2.9f40bc3b.chunk.js.map": "/static/js/2.9f40bc3b.chunk.js.map",
     "static/js/3.8b579a9b.chunk.js": "/static/js/3.8b579a9b.chunk.js",
     "static/js/3.8b579a9b.chunk.js.map": "/static/js/3.8b579a9b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.06382735.chunk.css.map": "/static/css/2.06382735.chunk.css.map",
     "static/css/main.edbe6dba.chunk.css.map": "/static/css/main.edbe6dba.chunk.css.map",
-    "static/js/2.e17a3bde.chunk.js.LICENSE.txt": "/static/js/2.e17a3bde.chunk.js.LICENSE.txt",
+    "static/js/2.9f40bc3b.chunk.js.LICENSE.txt": "/static/js/2.9f40bc3b.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/static/media/homepageBanner.56eb14f7.png",
     "static/media/planet1.1fc3a357.png": "/static/media/planet1.1fc3a357.png",
     "static/media/planet2.74655fc2.png": "/static/media/planet2.74655fc2.png",
@@ -23,7 +23,6 @@
     "static/media/planet6.fcf13228.png": "/static/media/planet6.fcf13228.png",
     "static/media/planet7.fc690348.png": "/static/media/planet7.fc690348.png",
     "static/media/planet8.3ed988cd.png": "/static/media/planet8.3ed988cd.png",
-    "static/media/planet9.e3a66ee9.png": "/static/media/planet9.e3a66ee9.png",
     "static/media/space1.072a67be.png": "/static/media/space1.072a67be.png",
     "static/media/space2.d2138b8b.png": "/static/media/space2.d2138b8b.png",
     "static/media/space3.387c69b2.png": "/static/media/space3.387c69b2.png",
@@ -32,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.fbe0daa6.js",
     "static/css/2.06382735.chunk.css",
-    "static/js/2.e17a3bde.chunk.js",
+    "static/js/2.9f40bc3b.chunk.js",
     "static/css/main.edbe6dba.chunk.css",
-    "static/js/main.25633aa8.chunk.js"
+    "static/js/main.787c26ca.chunk.js"
   ]
 }
