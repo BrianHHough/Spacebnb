@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+#DataStax-Astra-DB
+/DataStax-Astra-DBT
+/.DataStax-Astra-DBT/DataStax-Astra-test
+/.DataStax-Astra-test
+
 # testing
 /coverage
 

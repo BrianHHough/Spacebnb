@@ -33,6 +33,9 @@ function Home() {
                 />
             </div>
             
+            <div className='featured__deals'>
+                <h1>Featured Deals on Spacebnb</h1>
+            </div>
             <div className='home__section'>
                 <Card 
                         src={planet1}

@@ -1,13 +1,13 @@
 .banner {
     background: url("./brand/homepageBanner.png") center center;
-    height: 50vh;
+    height: 70vh;
     position: relative;
 }
 
 .banner__info {
     background-color: black;
     color: white;
-    padding-top: 9vh;
+    padding-top: 17vh;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 40px;
